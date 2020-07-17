@@ -1,5 +1,7 @@
 # Hi, I'm Niraj Trivedi 👩🏾‍💻
 
+<img src="https://github.com/nibro7778/nibro7778/blob/master/home-page-banner.png">
+
 I'm a software engineer who is passionate about programming and next-generation technologies that change how billions of users connect, 
 explore and interact with information and one another. 
 Interested in increasing experience across new technologies as well as learning other best practice development methodologies within the industry.
