@@ -12,4 +12,4 @@ Apart from my programming world, traveling is my passion and I love to go on roa
 ## Find me around the web 🌎:
 - Learning in public on <a href="https://www.youtube.com/channel/UCK8K87gKLxw93qpF0MjyncA">Youtube Channel</a> or <a href="https://nirajtrivediblog.wordpress.com/">Tech Blog</a> 📹 ✍
 - Sharing updates on <a href="https://www.linkedin.com/in/nirajtrivedi/">LinkedIn</a> 💼
-- Sharing travel diary on <a href="https://www.instagram.com/nibro_unoffical/">Instagram</a> :runner:
+- Sharing travel diary on <a href="https://www.instagram.com/miles_n.smiles/">Instagram</a> :runner:
