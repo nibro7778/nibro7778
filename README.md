@@ -8,6 +8,7 @@ Interested in increasing experience across new technologies as well as learning 
 
 Apart from my programming world, traveling is my passion and I love to go on road trips, hiking, adventurous activities, learning the cultures and exploring new places. I have created my bucket list and started living to get them done before leaving this world ;)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nibro7778&theme=react&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me around the web 🌎:
 - Learning in public on <a href="https://www.youtube.com/channel/UCK8K87gKLxw93qpF0MjyncA">Youtube Channel</a> or <a href="https://nirajtrivediblog.wordpress.com/">Tech Blog</a> 📹 ✍
